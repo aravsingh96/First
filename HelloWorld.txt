@@ -2,6 +2,4 @@ cout << "hello world"
 
 im editing it for the 1st time
 
-cout << "Hey there!"
-
 Thanks
